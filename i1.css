@@ -1,0 +1,158 @@
+*{
+    font-family:Arvo;
+   
+}
+body{
+    overflow-x: hidden;
+}
+.he1 h1{
+    font-size: 50px;
+}
+.he1 p{
+    margin-right: 9px;
+    text-align: justify;
+
+}
+.he1 a{
+    padding-left: 10px;
+    color: black;
+}
+.image{
+    width: 100%;
+}
+.image img{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+.he2 h2{
+   font-size: 45px;
+
+}
+.he2 img{
+    width: 70%;
+    height: 350px;
+    border-radius: 10px;
+}
+.he2 a{
+    color: black;
+}
+.he2 p{
+    text-align: justify;
+    margin-right: 9px;
+}
+.he3 img{
+  width: 100%;
+}
+.he3 h2{
+padding-left: 8%;
+padding-bottom: 11px;
+font-weight: 500;
+font-size: 45px;
+}
+.he3 h4{
+    padding-left: 8%;
+    padding-bottom: 3px;
+
+}
+.he3 p{
+    padding-left: 10.5%;
+    padding-bottom: 9px;
+    text-align: justify;
+    margin-right: 9px;
+}
+.he3 img{
+    height: 600px;
+    width: 85%;
+    margin-left: 4%;
+}
+.he4 label{
+color: brown;
+font-weight: 600;
+}
+.he4 h2{
+    font-size: 45px;
+    font-weight: 500;
+}
+.he5 img{
+    width: 100%;
+ padding-bottom: 6px;
+
+}
+.he6 img{
+    width:90%;
+    padding-right: 70px;
+}
+.he6 h4{
+  padding-top: 80px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+}
+.he6 p{
+    padding-top: 10px;
+    text-align: justify;
+    padding-right: 10px;
+padding-left: 30px;
+    
+}
+.he7 img{
+    width: 90%;
+    padding-left:70px ;
+}
+.he7 h4{
+    padding-top: 50px;
+    text-align: justify;
+    font-size: 40px;
+    font-weight: 500;
+}
+.he7 p{
+    padding-top: 10px;
+    text-align: justify;
+    padding-right: 20px;
+padding-left: 5px;
+}
+.he10{
+    width: 100%;
+   
+}
+.he11 img{
+    width: 70%;
+    padding-left: 80px;
+    justify-content: center;
+    display: flex;
+}
+.he11 h3{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.he11 p{
+    padding-left: 15px;
+    text-align: justify;
+    padding-right: 8px;
+
+}
+.he12 img{
+    width: 70%;
+    padding-left: 80px;
+}
+.he12 h3{
+    padding-top: 40px;
+    padding-left: 60px;
+}
+.he12 p{
+    padding-left: 60px;
+    text-align: justify;
+    padding-right: 20px;
+
+}
+.card-img-top{
+    width: 220px;
+    padding: 15px;
+}
+
+
+
+
+
